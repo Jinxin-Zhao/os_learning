@@ -1,0 +1,3 @@
+/opt/monrisk1/file/os_learning/multi_thread_programming/lesson6/CMakeFiles/lesson6.dir
+/opt/monrisk1/file/os_learning/multi_thread_programming/lesson6/CMakeFiles/edit_cache.dir
+/opt/monrisk1/file/os_learning/multi_thread_programming/lesson6/CMakeFiles/rebuild_cache.dir
